@@ -1,0 +1,97 @@
+@media screen and (max-width: 640px) 
+{
+      .container, #header, #footer {width: 300px;}
+      
+      #nametag {width: 300px; font-size: 20px; 
+            height: 32px; line-height: 32px; margin: 0 auto;
+      }
+
+      #nav {font-size: 15px; height: 20px; line-height: 20px; padding: 5px;
+            margin: 0 30px 0;}
+
+      .main-content  {width: 280px; font-size: 12px; margin: 0 auto;
+            padding-top: 75px;
+      }
+
+      #footer {
+            padding: 15px 0px;  font-size: 10px;         
+            border-top: 4px solid #4aaaa5;
+      }
+
+      p {font-size: 12px; line-height: 20px;
+      }
+
+      #section {width: 280px; margin: 0 auto;
+      }
+
+      #aside {width: 280px; margin: 10px 0px 10px 0;
+      }                       /*  */
+
+     #contag {
+            width: auto;
+            font-size: 12px;
+            padding: 0px;
+            text-align: left;
+            margin-left: 15px;
+            margin-right: 5px;
+      } 
+
+      .con-image1 {
+            width: 25px;
+            padding-top: 0px;
+            margin: 10px 2px 10px 15px;
+      }
+      .con-image {
+            width: 25px;
+            padding-top: 0px;
+            margin: 10px 2px 10px 3px;
+      }
+
+      .my-image {width: 250px; height: 200px; margin: 15px;}
+
+      #my-text {margin: 15px}
+
+      #aboutag {font-size: 15px; height: 35px; line-height: 35px; padding: 5px 0;
+                  margin-left: 10px; width: auto;
+      }
+
+      .work-image1, .work-image2, .work-image1l, .work-image2l {
+            width: 250px;
+            height: 150px;
+            margin: 10px 20px 10px 10px;
+      }
+
+      #contact-form ul {
+      list-style-type: none;
+      margin-top: 10px;
+      }
+
+      #contact-form li {
+      margin-bottom: 20px;
+      }
+
+      label, input[type=text], input[type=email], textarea {     
+      margin-left: 10px;
+      }
+
+      input[type=text], input[type=email], textarea {
+      height: 35px;
+      border: 1px solid #ddd;
+      font-size: 12px;
+      }
+
+      textarea {
+      height: 200px;
+      }
+
+      input[type=submit] {
+      background: #4aaaa5;
+      border: 0 none;
+      color: #fff;
+      font-size: 15px;
+      padding: 10px 30px;
+      margin: 10px;
+      cursor: pointer;
+      }   
+
+}
